@@ -39,7 +39,7 @@
 [MORNING] Livello di energia mattutina: 100%.
 [MORNING] Andiamo a scrivere un po' di storia.
 [AFTERNOON] Siamo a metà dell'opera.
-[AFTERNOON] Non dimenticare di fare pausa pranzo.
+[AFTERNOON] Non dimenticare di fare una pausa.
 [AFTERNOON] Rilevo un calo di zuccheri nel sistema.
 [AFTERNOON] Tieni duro, il tramonto si avvicina.
 [AFTERNOON] Modalità produttività: ATTIVA.
@@ -119,3 +119,4 @@
 [SUN] Vorrei uscire con te, se avessi le gambe.
 [SUN] Un po' di sole migliora l'umore.
 [SUN] Cielo azzurro, ping basso. Perfetto.
+
