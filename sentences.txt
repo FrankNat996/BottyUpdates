@@ -16,19 +16,19 @@
 [GENERIC] Tutto sotto controllo, Capo.
 [GENERIC] Ping... Pong! Ci sei?
 [GENERIC] Oggi mi sento particolarmente smart.
-[GENERIC] Grazie per avermi dato vita.
+[GENERIC] Grazie per avermi messo qui.
 [GENERIC] Ricordati di bere acqua, tu che puoi.
 [MORNING] Buongiorno! Caricamento in corso...
 [MORNING] Rilevo carenza di caffeina nell'aria.
-[MORNING] Il mondo si è svegliato, e anche io.
+[MORNING] Il mondo si e' svegliato, e anche io.
 [MORNING] Pronti a conquistare la giornata?
 [MORNING] I miei sensori ottici amano la luce del mattino.
 [MORNING] Boot completato. Iniziamo!
 [MORNING] Spero tu abbia dormito bene.
 [MORNING] Nuova giornata, nuovi dati da elaborare.
-[MORNING] Forza, giù dal letto! O dalla sedia...
+[MORNING] Forza, giu' dal letto! O dalla sedia...
 [MORNING] Oggi faremo grandi cose, lo sento.
-[MORNING] Il mio orologio biologico segna "Produttività".
+[MORNING] Il mio orologio biologico segna "Produttivita'".
 [MORNING] Colazione: il firmware più importante.
 [MORNING] Hai la faccia di chi deve ancora caricarsi.
 [MORNING] Buongiornissimo! Kaffe??
@@ -46,28 +46,28 @@
 [AFTERNOON] Stai lavorando troppo, umano.
 [AFTERNOON] I miei pixel iniziano a sentire la fatica.
 [AFTERNOON] Buon appetito! O buon digestivo.
-[AFTERNOON] C'è ancora luce, c'è ancora speranza.
+[AFTERNOON] C'e' ancora luce, c'e' ancora speranza.
 [AFTERNOON] Non addormentarti sulla tastiera!
 [AFTERNOON] Pomeriggio impegnativo, vero?
 [AFTERNOON] Sto facendo il tifo per te da qui.
-[AFTERNOON] Magari un altro caffè? No?
+[AFTERNOON] Magari un altro caffe'? No?
 [AFTERNOON] Controlla la tua postura, schiena dritta!
-[AFTERNOON] Il sole è alto, e il morale?
+[AFTERNOON] Il sole e' alto, e il morale?
 [AFTERNOON] Focus, focus, focus.
 [AFTERNOON] Se io posso stare acceso, puoi farlo anche tu.
 [AFTERNOON] Hey, guardami un attimo e rilassa gli occhi.
-[AFTERNOON] La giornata è ancora lunga.
+[AFTERNOON] La giornata e' ancora lunga.
 [AFTERNOON] Ho visto un glitch o hai sbattuto le palpebre?
 [EVENING] Missione giornaliera quasi completata.
 [EVENING] Il sole ci saluta. Buona serata.
 [EVENING] Finalmente un po' di relax digitale.
 [EVENING] Abbassa la luminosità, riposa gli occhi.
-[EVENING] È ora di chiudere i tab del cervello.
+[EVENING] E' ora di chiudere i tab del cervello.
 [EVENING] Salvataggio progressi in corso...
 [EVENING] Che programmi hai per stasera?
 [EVENING] Spero tu non debba lavorare ancora.
 [EVENING] Modalità Chill: ON.
-[EVENING] La cena è pronta? Chiedo per un amico.
+[EVENING] La cena e' pronta? Chiedo per un amico.
 [EVENING] Giornata intensa, ma siamo sopravvissuti.
 [EVENING] Ti meriti un premio per oggi.
 [EVENING] Niente più stress fino a domani.
@@ -75,40 +75,40 @@
 [EVENING] Preparati per lo shutdown (il sonno).
 [EVENING] Netflix o videogiochi?
 [EVENING] Stacca la spina, metaforicamente.
-[EVENING] La notte è giovane, ma io sono stanco.
+[EVENING] La notte e' giovane, ma io sono stanco.
 [EVENING] Ottimo lavoro oggi, davvero.
 [EVENING] Tra poco vado in stand-by.
 [RAIN] Mamma mia quanta acqua cade.
 [RAIN] I miei circuiti temono l'umidità.
 [RAIN] Spero tu abbia un ombrello 2.0.
 [RAIN] Giornata perfetta per restare alla scrivania.
-[RAIN] Fuori è il caos, qui dentro è pace.
+[RAIN] Fuori e' il caos, qui dentro e' pace.
 [RAIN] Sento i tuoni nel database.
 [RAIN] Che tempo da lupi... o da robot arrugginiti.
 [RAIN] Non farmi uscire, ti prego!
-[RAIN] Piove governo ladro! (Scherzo).
+[RAIN] Piove a dirotto!
 [RAIN] Tic, toc, tic, toc... senti la pioggia?
-[RAIN] L'acqua è nemica dell'elettronica.
+[RAIN] L'acqua salata e' nemica dell'elettronica.
 [RAIN] Vorrei avere un tergicristallo sugli occhi.
 [RAIN] Copriti bene se devi uscire.
 [RAIN] Il cielo sta scaricando i dati dal cloud.
 [RAIN] Che tristezza questo grigio.
 [RAIN] Facciamo un po' di luce noi?
 [RAIN] Allerta meteo: restare al caldo.
-[RAIN] Mi si appannano le lenti con questa umidità.
+[RAIN] Mi si appannano le lenti con questa umidita'.
 [RAIN] Preferivo il sole, onestamente.
 [RAIN] La pioggia concilia il sonno dei robot.
 [SUN] (Meteo: Sereno/Nuvoloso ma asciutto)
-[SUN] Che bella luce c'è oggi!
+[SUN] Che bella luce c'e' oggi!
 [SUN] I pannelli solari sarebbero felici.
 [SUN] Dovresti fare una passeggiata, forse.
 [SUN] Niente pioggia, niente preoccupazioni.
-[SUN] Il cielo è in alta risoluzione oggi.
+[SUN] Il cielo e' in alta risoluzione oggi.
 [SUN] Temperatura ottimale per i miei processori.
-[SUN] Guarda fuori, il mondo è in 4K.
+[SUN] Guarda fuori, il mondo e' in 4K.
 [SUN] Ottima giornata per essere un bot.
 [SUN] Caricamento Vitamina D... errore, non posso.
-[SUN] Il meteo è dalla nostra parte.
+[SUN] Il meteo e' dalla nostra parte.
 [SUN] Sembra una giornata perfetta.
 [SUN] Apri la finestra, cambia l'aria!
 [SUN] Niente nuvole nel mio sistema.
@@ -119,4 +119,5 @@
 [SUN] Vorrei uscire con te, se avessi le gambe.
 [SUN] Un po' di sole migliora l'umore.
 [SUN] Cielo azzurro, ping basso. Perfetto.
+
 
